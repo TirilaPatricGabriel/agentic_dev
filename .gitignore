@@ -1,2 +1,8 @@
 .env
 venv/
+__pycache__/
+*.pyc
+*.pyo
+agent_output/
+*.egg-info/
+.pytest_cache/
